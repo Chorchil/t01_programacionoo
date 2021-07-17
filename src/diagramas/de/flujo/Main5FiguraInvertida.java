@@ -6,6 +6,7 @@ public class Main5FiguraInvertida {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// buen trabajo 
 		System.out.println("Ingrese el número de filas");
 		Scanner lector=new Scanner(System.in);
 		int n=lector.nextInt();
