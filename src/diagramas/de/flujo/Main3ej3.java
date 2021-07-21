@@ -8,12 +8,12 @@ public class Main3ej3 {
 		int i;
 		int j;
 		int M;
-		for(i=7; i<=7;i++) {
-			for(j=0;j<=12;j++) {
-				M=i*j;
+		for (i = 7; i <= 7; i++) {
+			for (j = 0; j <= 12; j++) {
+				M = i * j;
 				System.out.println(M);
 			}
-			
+
 		}
 	}
 
