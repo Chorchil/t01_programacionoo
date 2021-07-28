@@ -18,7 +18,7 @@ public class MainEjercicio2 {
 				SP=SP+n;
 			}else {
 				SI=SI+n;
-				CI=CI+n;
+				CI=CI+1;
 				PI=SI/CI;
 			}
 		}
